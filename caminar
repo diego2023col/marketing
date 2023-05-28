@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tesis: Deportes y Cultura</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tesis: Deportes y Cultura</h1>
+  <table>
+    <tr>
+      <th>Punto</th>
+      <th>Destacados</th>
+    </tr>
+    <tr>
+      <td>Contexto cultural <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Flag of Spain" width="20" height="15"></td>
+      <td>
+        <ul>
+          <li>Historia y legado cultural de España</li>
+          <li>Historia y diversidad cultural de América Latina</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Deportes y cultura</td>
+      <td>
+        <ul>
+          <li>Importancia de los deportes en la identidad cultural</li>
+          <li>Influencia de la cultura en las preferencias deportivas</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Prácticas de ejercicio en la era digital</td>
+      <td>
+        <ul>
+          <li>Tendencias de ejercicio en España <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Flag of Spain" width="20" height="15"></li>
+          <li>Tendencias de ejercicio en América Latina</li>
+          <li>Preferencias de ejercitación: gimnasio, correr o en línea</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Ropa deportiva y estilo de vida activo</td>
+      <td>
+        <ul>
+          <li>Tendencias en la moda deportiva en España <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Flag of Spain" width="20" height="15"></li>
+          <li>Tendencias en la moda deportiva en América Latina</li>
+          <li>Relación entre ropa deportiva y estilo de vida activo</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Alimentación y deporte</td>
+      <td>
+        <ul>
+          <li>Dietas y hábitos alimentarios en España <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Flag of Spain" width="20" height="15"></li>
+          <li>Dietas y hábitos alimentarios en América Latina</li>
+          <li>Importancia de la alimentación en el rendimiento deportivo</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Deportes populares entre hispanohablantes</td>
+      <td>
+        <ul>
+          <li>Deportes populares en España <img src="https://upload.wikimedia.org/w
+diegocristancho@Diegos-MacBook-Pro ~ % 
+diegocristancho@Diegos-MacBook-Pro ~ % 
+diegocristancho@Diegos-MacBook-Pro ~ % 
+diegocristancho@Diegos-MacBook-Pro ~ % 
+diegocristancho@Diegos-MacBook-Pro ~ % cd Documents 
+diegocristancho@Diegos-MacBook-Pro Documents % cat marketing.html 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Course Advertisement</title>
+  <style>
+    /* CSS styles for the advertisement */
+    .advertisement {
+      width: 100%;
+      height: 1000px;
+      background-image: url('https://educogym.com/wp-content/uploads/2021/05/Screenshot-2021-05-26-at-23.41.51-1024x681.jpg');
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+    }
+    
+    .advertisement h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    
+    .advertisement p {
+      font-size: 18px;
+      margin-bottom: 120px;
+    }
+    
+    .advertisement a {
+      display: inline-block;
+      background-color: #ff8400;
+      color: #fff;
+      padding: 12px 20px;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .advertisement a:hover {
+      #background-color: #e66400;
+      background-color: #220f00;
+    }
+    
+    /* CSS styles for the about page */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+      text-align: justify;
+    }
+    
+    h1 {
+      font-size: 28px;
+      margin-bottom: 120px;
+    }
+    
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+      margin-bottom: 120px;
+    }
+    
+    .back-link {
+      display: inline-block;
+      background-color: #ff8400;
+      #background-color: #220f00;
+      color: #fff;
+      padding: 8px 12px;
+      font-size: 16px;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .back-link:hover {
+      background-color: #e66400;
+    }
+  </style>
+</head>
+<body>
+  <div class="advertisement">
+    <div>
+      <h1>"¡Aprende y mejora tus habilidades con nuestro curso en línea!... Caminar con las manos"</h1>
+      <p>"Descubre las técnicas más efectivas y obtén resultados sorprendentes en el ámbito que te apasiona. ¡No esperes más para alcanzar tus metas!"</p>
+      <a href="#about">¡Inscríbete ahora!</a>
+    </div>
+  </div>
+  
+  <div id="about" class="container">
+    <h1>Acerca del curso en línea</h1>
+    <p>"Oferta especial de lanzamiento: ¡Obtén un mes de clases de fitness en línea completamente gratis! Únete ahora y comienza a alcanzar tus objetivos desde la comodidad de tu hogar. (Aplicable para nuevos suscriptores). Descuento exclusivo para Hispano America: ¡Ahorra un 50% en tu suscripción mensual a nuestras clases de fitness en línea! No dejes pasar esta oportunidad única de entrenar con los mejores instructores desde cualquier lugar de Latinoamérica.</p>
+    <a class="back-link" href="#">Volver</a>
+  </div>
+</body>
+</html>
